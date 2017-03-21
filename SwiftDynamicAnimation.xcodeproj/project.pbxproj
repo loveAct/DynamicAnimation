@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					189DE8B21E80FC1300FF501E = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 27B4WVUTGJ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 27B4WVUTGJ;
 				INFOPLIST_FILE = SwiftDynamicAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.itcast.SwiftDynamicAnimation;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 27B4WVUTGJ;
 				INFOPLIST_FILE = SwiftDynamicAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.itcast.SwiftDynamicAnimation;
